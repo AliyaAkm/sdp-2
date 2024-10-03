@@ -1,0 +1,3 @@
+interface Smartphone {
+    void getDetails();
+}
